@@ -1,0 +1,17 @@
+@mixin propiedadesPrincipal($bg-color,$colorLetra,$ancho,$alto) {
+    background-color: $bg-color;
+    color: $colorLetra;
+    width:$ancho ;
+    height: $alto;
+}
+
+@mixin anchoyalto ($ancho,$alto) {
+    width: $ancho;
+    height: $alto;
+    
+}
+
+@mixin marginPadding ($margin,$padding) {
+    margin: $margin;
+    padding: $padding;
+}

@@ -1,0 +1,1 @@
+agregue descripcion en base a lo visto en SEO, y los tittle a las diferentes paginas 

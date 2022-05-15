@@ -1,0 +1,24 @@
+.formu{
+    background: rgba(0, 0, 0, 0.4);
+    margin: auto;
+    padding: 50px;
+    border-radius: 7px;
+    
+    input{
+        @include marginPadding(10px,10px)
+       
+    }
+    textarea{
+        @include marginPadding(10px,10px)
+    }
+    
+}
+
+.form1{
+    color: $colorBlanco;
+    list-style: none;
+    text-decoration: none;
+    h4{
+        color: #000000;
+    }
+}

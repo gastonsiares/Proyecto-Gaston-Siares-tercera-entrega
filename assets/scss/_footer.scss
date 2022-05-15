@@ -1,0 +1,28 @@
+.footer{
+    background-color: black;
+    ul{
+        list-style: none;
+    text-decoration: none;
+    }
+    li{
+        line-height: 30px; 
+    }
+    a{
+        text-decoration:  none;
+    color: $colorBlanco;
+    }
+}
+.derechos{
+    color: $colorBlanco;
+    font-size: 15px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contactofooter{
+    ul{
+        list-style: none;
+    }
+    li{
+        line-height: 30px;
+        color: $colorBlanco;
+    }
+}

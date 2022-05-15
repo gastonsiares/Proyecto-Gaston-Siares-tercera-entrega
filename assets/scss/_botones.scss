@@ -1,0 +1,11 @@
+.btn{
+    border: map-get($boton ,borde );
+    padding: map-get($boton , padding );
+    border-radius: map-get($boton , radio );
+}
+.Boton1{
+    font-size: 17px;
+}
+.Boton1:hover{
+    cursor: pointer;
+}
