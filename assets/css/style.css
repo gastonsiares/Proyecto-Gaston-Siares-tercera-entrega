@@ -1,84 +1,60 @@
 .footer {
-  background-color: black;
-}
-
-.footer ul {
-  list-style: none;
-  text-decoration: none;
-}
-
-.footer li {
-  line-height: 30px;
-}
-
-.footer a {
-  text-decoration: none;
-  color: #fff;
-}
+  background-color: black; }
+  .footer ul {
+    list-style: none;
+    text-decoration: none; }
+  .footer li {
+    line-height: 30px; }
+  .footer a {
+    text-decoration: none;
+    color: #fff; }
 
 .derechos {
   color: #fff;
   font-size: 15px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
 
 .contactofooter ul {
-  list-style: none;
-}
+  list-style: none; }
 
 .contactofooter li {
   line-height: 30px;
-  color: #fff;
-}
+  color: #fff; }
 
 .navbar {
-  background-color: #f56319 !important;
-}
-
-.navbar ul li {
-  font-size: 27px;
-}
+  background-color: #f56319 !important; }
+  .navbar ul li {
+    font-size: 27px; }
 
 .btn {
   border: 0;
   padding: 10px 15px;
-  border-radius: 5px;
-}
+  border-radius: 5px; }
 
 .Boton1 {
-  font-size: 17px;
-}
+  font-size: 17px; }
 
 .Boton1:hover {
-  cursor: pointer;
-}
+  cursor: pointer; }
 
 .formu {
   background: rgba(0, 0, 0, 0.4);
   margin: auto;
   padding: 50px;
-  border-radius: 7px;
-}
-
-.formu input {
-  margin: 10px;
-  padding: 10px;
-}
-
-.formu textarea {
-  margin: 10px;
-  padding: 10px;
-}
+  border-radius: 7px; }
+  .formu input {
+    margin: 10px;
+    padding: 10px; }
+  .formu textarea {
+    margin: 10px;
+    padding: 10px; }
 
 .form1 {
   color: #fff;
   list-style: none;
-  text-decoration: none;
-}
-
-.form1 h4 {
-  color: #000000;
-}
+  text-decoration: none; }
+  .form1 h4 {
+    color: #000000; }
 
 .tarjeta {
   text-align: center;
@@ -86,87 +62,56 @@
   border-radius: 10px 10px 10px 10px;
   border-radius: 10px;
   padding: 10px 10px 10px 10px;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   margin: 10px;
   width: 317px;
-  height: 468px;
-}
+  height: 468px; }
 
 .tarjeta:hover {
   -webkit-box-shadow: 8px 7px 6px -2px rgba(0, 0, 0, 0.17);
-  box-shadow: 8px 7px 6px -2px rgba(0, 0, 0, 0.17);
-}
+  box-shadow: 8px 7px 6px -2px rgba(0, 0, 0, 0.17); }
 
 .titulonoti {
   background-color: #F58F20;
   height: 90px;
   font-style: normal;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.titulonoti h3 {
-  font-size: 30px;
-}
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+  .titulonoti h3 {
+    font-size: 30px; }
 
 .contacto {
   background-color: #F58F20;
   height: 90px;
   text-transform: uppercase;
   font-style: normal;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.contacto h3 {
-  font-size: 30px;
-}
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+  .contacto h3 {
+    font-size: 30px; }
 
 .mainc {
   width: 100%;
   height: 700px;
   background-image: url(../img/campo.jpg);
   background-size: cover;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
+  justify-content: space-around;
+  flex-direction: column; }
 
 .contac {
   color: #fff;
   font-size: 40px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
+  flex-direction: row;
+  justify-content: center; }
 
 .mainclientes {
   width: 100%;
   height: 700px;
   background-image: url("../img/campo 3.jpg");
   background-size: cover;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
+  justify-content: space-around;
+  flex-direction: column; }
 
 .cajaempr {
   font-size: 30px;
@@ -175,25 +120,19 @@
   line-height: 50px;
   border: solid;
   -webkit-box-shadow: 8px 7px 6px -2px rgba(0, 0, 0, 0.17);
-  box-shadow: 8px 7px 6px -2px rgba(0, 0, 0, 0.17);
-}
-
-.cajaempr h2 {
-  font-size: 40px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+  box-shadow: 8px 7px 6px -2px rgba(0, 0, 0, 0.17); }
+  .cajaempr h2 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
 
 .imgposte3 {
   border: solid;
   -webkit-box-shadow: 8px 7px 6px -2px rgba(0, 0, 0, 0.17);
-  box-shadow: 8px 7px 6px -2px rgba(0, 0, 0, 0.17);
-}
+  box-shadow: 8px 7px 6px -2px rgba(0, 0, 0, 0.17); }
 
 .Otrocolor {
   color: #f56319;
-  font-size: 40px;
-}
+  font-size: 40px; }
 
 .titulonosotros {
-  font-size: 40px;
-}
+  font-size: 40px; }
